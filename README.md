@@ -1,7 +1,8 @@
 # Button-call-taxi
-Description of this project :
+**Description of this project:**
+
 The taxi call button that takes us to the phone number we have defined.
-For a better view, you can check this link in open source: (https://codepen.io/hosseinghafouri/pen/BarPvWK)
+For a better view, you can check this link on codeopen.io: (https://codepen.io/hosseinghafouri/pen/BarPvWK)
 
 
 **Note: This project may not show you all its features on codepen.io, such as mobile connectivity, etc. For this purpose, you can download this project on your desktop and run it in Chrome for better viewing.** 👇👇
